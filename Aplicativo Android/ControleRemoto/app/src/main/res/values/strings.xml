@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Controle Remoto</string>
+
+    <!--MENU-->
+    <string name="action_about">Sobre</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_add_equipament">Adicionar Equipamento</string>
+
+</resources>
